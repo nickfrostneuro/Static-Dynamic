@@ -20,12 +20,6 @@ Line 1406: classifier
 Line 1587: cosine similarity between different ensembles (social and context)
 
 
-
-
-
-
-
-
 Anxiety-related behavior
 Activity_by_epoch.m is code for analysis of anxiety related behavior across multiple contexts. Experiment consists of behavior analysis and calcium data collected in a single recording across 9 interleaved settings (home cage or different anxiety-provoking maxes)
 HC1-EZM-HC2
